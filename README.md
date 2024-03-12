@@ -7,12 +7,16 @@ In the grand tapestry of the cosmos, where stars weave the stories of fate and f
 During this celestial extravaganza, as the light began to weave and dance through the fabric of space, the Almighty paused, squinted through the cosmic kaleidoscope, and in a moment of divine epiphany, exclaimed in a cockney accent that resonated across the heavens, _'Oi, hold up, this looks a bit like a halo, don’t it?'_ The cosmos held its breath, the stars blinked in amusement, and in that whimsical pause, BitHalo was born. With a hearty chuckle and a nod of approval, the Lord mused, 'Well, ain’t that brilliant? BitHalo it is, then!' And the universe, in all its wonder and wit, echoed with laughter, forever cherishing the birth of BitHalo, a light that forever wears its halo with a determined grin, proving its sidekick, The Bitaxe's best efforts, to find that elusive block.
 
 -Ok, this didn't happen _**exactly**_ like this. 
+
+***
+
 <p align="center">
-<img src="/BitHalo/Images/BitHalo+204.png" alt="Front isometric with logo" width="50%"/>
+  <img src="/BitHalo/Images/BitHalo+204.png" alt="Front isometric with logo" style="width: 50%; vertical-align: middle;"/>
   <a href="https://www.youtube.com/watch?v=f2CNs3iYBb0">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo_of_YouTube_%282015-2017%29.svg" alt="YouTube Video" width="30%"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo_of_YouTube_%282015-2017%29.svg" alt="YouTube Video" style="width: 30%; vertical-align: middle;"/>
   </a>
 </p>
+
 
 
 
