@@ -69,7 +69,10 @@ The processor on the BitHalo is the ATMega328p.
 
 If you are flashing the BitHalo in situ (already on the Bitaxe), flick the switch to the off position as this will isolate the BitHalo from the Bitaxe and allow you to power the BitHalo without also trying to power the Bitaxe via the ICSP pins (bad JuJu if this happens).
 
-
+<p align="center">
+  <img src="Arduino Sketches/Programmer.png" alt="Wires + v201" width="25%"/> 
+  <img src="Arduino Sketches/Upload.png" alt="Wires + v201" style="margin-right: 30px;" width="50%"/> 
+</p>
 
 ### The Assembly:
 You will need 4 x (M14 x M3) self tapping screws. The scews simply pass through the Bitaxe, the diffuser, the BitHalo and then finally, into the stands. The 3 x gold pogo pins on the BitHalo will align to the  3 necessary pads on the Bitaxe. Everything self aligns providing you use the correct screws.
