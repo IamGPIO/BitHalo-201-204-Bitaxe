@@ -6,7 +6,7 @@ During this celestial extravaganza, as the light began to weave and dance throug
 
 -Ok, this didn't happen _**exactly**_ like this. 
 
-<img src="/BitHalo-201-204-Bitaxe/blob/main/BitHalo/BitHalo+204.png" alt="Front isometric with logo" width="75%"/>
+<img src="/BitHalo/BitHalo+204.png" alt="Front isometric with logo" width="75%"/>
 
 
 
