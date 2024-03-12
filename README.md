@@ -43,8 +43,11 @@ It involved soldering 2 wires on the rear of the BitHalo v201 to the rear of the
 
 __Note:__ V205 of the Bitaxe has specific pads for accessories such as the BitHalo. On this, there will be new version of the BitHalo (in due course) which should work with all future versions of the Bitaxe, including the 400 series - "The Supra".
 
-<img src="BitHalo/Images/Wires.png" alt="Wires + v201" width="30%"/> 
-<img src="BitHalo/Images/Wires 2.png" alt="Wires + v201" width="30%"/> 
+<p align="center">
+  <img src="BitHalo/Images/Wires.png" alt="Wires + v201" style="margin-right: 10px;" width="30%"/> 
+  <img src="BitHalo/Images/Wires 2.png" alt="Wires + v201" width="30%"/> 
+</p>
+
 
 
 # This is a Heading h1
