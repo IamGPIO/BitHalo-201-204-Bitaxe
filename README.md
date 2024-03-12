@@ -48,6 +48,13 @@ __Note:__ V205 of the Bitaxe has specific pads for accessories such as the BitHa
 </p>
 
 
+***
+### The 3d Printed Diffuser
+To diffuse the pixellation from the individual LED's, I have designed a 5mm thick 3d printed opaque/opal diffuser.
+This simply prints in 100% infill.
+
+  <img src="BitHalo/Images/Rear Iso 2.png" alt="3d Printed Diffuser" width="70%"/> 
+
 
 # This is a Heading h1
 ## This is a Heading h2
