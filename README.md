@@ -13,7 +13,7 @@ During this celestial extravaganza, as the light began to weave and dance throug
 ***   
 ### Anyway...!   
 
-## License
+### License
 
 This project is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License - see the [LICENSE](LICENSE) file for details or visit [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 
