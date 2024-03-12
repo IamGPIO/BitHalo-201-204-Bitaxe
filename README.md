@@ -6,7 +6,8 @@ In the grand tapestry of the cosmos, where stars weave the stories of fate and f
 
 During this celestial extravaganza, as the light began to weave and dance through the fabric of space, the Almighty paused, squinted through the cosmic kaleidoscope, and in a moment of divine epiphany, exclaimed in a cockney accent that resonated across the heavens, _'Oi, hold up, this looks a bit like a halo, don’t it?'_ The cosmos held its breath, the stars blinked in amusement, and in that whimsical pause, BitHalo was born. With a hearty chuckle and a nod of approval, the Lord mused, 'Well, ain’t that brilliant? BitHalo it is, then!' And the universe, in all its wonder and wit, echoed with laughter, forever cherishing the birth of BitHalo, a light that forever wears its halo with a determined grin; proving its sidekick, The Bitaxe, is submitting its best efforts to find that elusive block. 
 
--Ok, this didn't happen _**exactly**_ like this. 
+-Ok, this didn't happen _**exactly**_ like this.
+   I do like lighting, and beer though. 
 
 ***
 
