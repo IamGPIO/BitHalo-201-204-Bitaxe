@@ -35,7 +35,7 @@ On the BitHalo is a slide switch. This switch simply disables the LED lights on 
 
 
 
-### The External DC Jack (Do not use if using Bitaxe version 204)
+### The External DC Jack (Do not use if using Bitaxe version 204):
 The external DC jack that solders to the rear of the BitHalo was incorporated to allow the Bitaxe to be powered from the rear as opposed to being powered by the DC jack on the side. 
 
 It involved soldering 2 wires on the rear of the BitHalo v201 to the rear of the DC jack on the Bitaxe (must be capabale of carrying at least 4a of current). Whilst this worked well on Bitaxe v201, I had to omit it for the v204 rollout due to the change in architecture and the way the DC jack was soldered on to the board. V201 had a through hole DC jack and 204 had a surface mount (SMD) variant which meant I couldnt solder on to the pins on the rear.
@@ -49,73 +49,18 @@ __Note:__ V205 of the Bitaxe has specific pads for accessories such as the BitHa
 
 
 ***
-### The 3d Printed Diffuser
+### The 3d Printed Diffuser:
 To diffuse the pixellation from the individual LED's, I have designed a 5mm thick 3d printed opaque/opal diffuser.
-This simply prints in 100% infill.
+This simply prints in 100% infill. File can be found in the "3d Print Files" above. If the 3d printed diffuser fouls any of the components on the Bitaxe or BitHalo, it means the diffuser is the wrong way round!
 
-  <img src="BitHalo/Images/Rear Iso 2.png" alt="3d Printed Diffuser" width="50%"/> 
+<img src="BitHalo/Images/Rear Iso 2.png" alt="3d Printed Diffuser" width="50%"/> 
 
+***
+### The 3d Printed Stand:
+In the 3D print file set above, you will find the left and righ sides of the stand I have designed to work with the BitHalo + v201-v204 of the Bitaxes. Careful consideration has been made with regards to the small components on the BitHalo and Bitaxe itself. The stand, nor the diffuser, should foul any components. 
 
-# This is a Heading h1
-## This is a Heading h2
-###### This is a Heading h6
+***
+### The Assembly:
+You will need 4 x (M14 x M3) self tapping screws. The scews simply pass through the Bitaxe, the diffuser, the BitHalo and then finally, into the stands. The 3 x gold pogo pins on the BitHalo will align to the  3 necessary pads on the Bitaxe. Everything self aligns providing you use the correct screws.
 
-## Emphasis
-
-*This text will be italic*  
-_This will also be italic_
-
-**This text will be bold**  
-__This will also be bold__
-
-_You **can** combine them_
-
-## Lists
-
-# Unordered
-
-* Item 1
-* Item 2
-* Item 2a
-* Item 2b
-
-### Ordered
-
-1. Item 1
-2. Item 2
-3. Item 3
-    1. Item 3a
-    2. Item 3b
-
-## Images
-
-![This is an alt text.](/image/sample.webp "This is a sample image.")
-
-## Links
-
-You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
-
-## Blockquotes
-
-> Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber with Aaron Swartz.
->
->> Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
-
-## Tables
-
-|    Left columns     | Right columns |
-|   ------------------- |:-------------:|
-| left foo      | right foo     |
-| left bar   d   | right bar     |
-| left baz      | right baz     |
-
-## Blocks of code
-
-```
-let message = 'Hello world';
-alert(message);
-```
-
-## Inline code
-
-This web site is using `markedjs/marked`.
+<img src="BitHalo/Images/Assembled Rear Iso.png" alt="3d Printed Diffuser" width="50%"/> 
