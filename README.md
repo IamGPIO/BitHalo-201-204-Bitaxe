@@ -60,7 +60,18 @@ This simply prints in 100% infill. File can be found in the "3d Print Files" abo
 In the 3D print file set above, you will find the left and righ sides of the stand I have designed to work with the BitHalo + v201-v204 of the Bitaxes. Careful consideration has been made with regards to the small components on the BitHalo and Bitaxe itself. The stand, nor the diffuser, should foul any components. 
 
 ***
+
+### The Code & updating the BitHalo
+As I only know what I know, I have written all of the code in Arduino using the Arduino IDE (sorry about that). The BitHalo can be updated via a "USBasp Programmer" (a few bucks online). On the rear of the BitHalo, you will see the 6 ICSP holes. You connect your USBasp programmer (using 5v) to the 6 pins on the BitHalo. 
+
+When programming via the Arduino IDE, you must click "update using programmer", not the usaul "upload" button.
+The processor on the BitHalo is the ATMega328p.
+
+If you are flashing the BitHalo in situ (already on the Bitaxe), flick the switch to the off position as this will isolate the BitHalo from the Bitaxe and allow you to power the BitHalo without also trying to power the Bitaxe via the ICSP pins (bad JuJu if this happens).
+
+
+
 ### The Assembly:
 You will need 4 x (M14 x M3) self tapping screws. The scews simply pass through the Bitaxe, the diffuser, the BitHalo and then finally, into the stands. The 3 x gold pogo pins on the BitHalo will align to the  3 necessary pads on the Bitaxe. Everything self aligns providing you use the correct screws.
 
-<img src="BitHalo/Images/Assembled Rear Iso.png" alt="3d Printed Diffuser" width="50%"/> 
+<img src="BitHalo/Images/Assembled Rear Iso.png" alt="3d Printed Diffuser" width="40%"/> 
