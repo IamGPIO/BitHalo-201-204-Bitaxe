@@ -29,6 +29,7 @@ Every time the Bitaxe submits a share to the pool, a pulse of light is emitted f
 The BitHalo has an in-built ATMEGA328P chip (Arduino) with code uploaded to simply read the debug serial data coming from a test pint (TP18) on the rear of the Bitaxe. When the serial string "accepted" is detected, the function "pulseLeds" is run.
 
 The same applies to "BLOCK FOUND" (that would be nice, wouldn't it!)
+<br>
 ***
 
 ### The YouTube Intro' VT'!
@@ -37,6 +38,7 @@ Somthing I made one eve' with the help of a few glasses of red...
 <a href="https://www.youtube.com/watch?v=f2CNs3iYBb0">
     <img src="https://github.com/IamGPIO/ImageHost/blob/main/YTClick.png?raw=true" alt="YouTube Video" style="width: 20%; vertical-align: middle;"/>
 </a>
+<br>
 
 ***
 
