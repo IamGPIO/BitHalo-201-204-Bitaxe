@@ -69,7 +69,7 @@ In the 3D print file set above, you will find the left and righ sides of the sta
 ***
 
 ### The PCB Files:
-So as I am self taught and live under a well-illuminated rock, I have only ever used "Easy-EDA" design software for the circuit and gerber files. The files are avaialable above. You may be able to import directly to KiCad or equiv'. Easy-EDA can be found here: https://easyeda.com/
+So as I am self taught and live under a well-illuminated rock, I have only ever used "Easy-EDA" design software for the circuit and gerber files. The files are available above. You may be able to import directly to KiCad or equiv'. Easy-EDA can be found here: https://easyeda.com/
 
 ***
 
