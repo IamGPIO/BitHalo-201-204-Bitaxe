@@ -64,14 +64,17 @@ In the 3D print file set above, you will find the left and righ sides of the sta
 ### The Code & updating the BitHalo
 As I only know what I know, I have written all of the code in Arduino using the Arduino IDE (sorry about that). The BitHalo can be updated via a "USBasp Programmer" (a few bucks online). On the rear of the BitHalo, you will see the 6 ICSP holes. You connect your USBasp programmer (using 5v) to the 6 pins on the BitHalo. 
 
-When programming via the Arduino IDE, you must click "update using programmer", not the usaul "upload" button.
+<img src="Arduino Sketches/Images/USBasp.png" alt="Wires + v201" style="margin-right: 40px;" width="30%"/> 
+ 
+
+When programming via the Arduino IDE, you must click "update using programmer", not the usual "upload" button.
 The processor on the BitHalo is the ATMega328p.
 
 If you are flashing the BitHalo in situ (already on the Bitaxe), flick the switch to the off position as this will isolate the BitHalo from the Bitaxe and allow you to power the BitHalo without also trying to power the Bitaxe via the ICSP pins (bad JuJu if this happens).
 
 <p align="center">
-  <img src="Arduino Sketches/Programmer.png" alt="Wires + v201" width="50%"/> 
-  <img src="Arduino Sketches/Upload.png" alt="Wires + v201" style="margin-right: 30px;" width="30%"/> 
+  <img src="Arduino Sketches/Images/Programmer.png" alt="Wires + v201" width="50%"/> 
+  <img src="Arduino Sketches/Images/Upload.png" alt="Wires + v201" style="margin-right: 30px;" width="30%"/> 
 </p>
 
 ### The Assembly:
