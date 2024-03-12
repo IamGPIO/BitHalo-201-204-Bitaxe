@@ -33,7 +33,18 @@ Future revisions of the arduino sketch (BitHalo's firmware) could allow so much 
 On the BitHalo is a slide switch. This switch simply disables the LED lights on the BitHalo. Turning the LEDs off does not affect the function of the Bitaxe itself. It is just there to turn the ligths off if they annoy you at night or whatever.
 
 <img src="BitHalo/Images/Front Render.png" alt="Rear Render" width="30%"/> 
+
 ***
+
+### The External DC Jack (Do not use if using Bitaxe version 204)
+The external DC jack that solders to the rear of the BitHalo was incorporated to allow the Bitaxe to be powered from the rear as opposed to being powered by the DC jack on the side. 
+
+It involved soldering 2 wires on the rear of the BitHalo v201 to the rear of the DC jack on the Bitaxe (must be capabale of carrying at least 4a of current). Whilst this worked well on Bitaxe v201, I had to omit it for the v204 rollout due to the change in architecture and the way the DC jack was soldered on to the board. V201 had a through hole DC jack and 204 had a surface mount (SMD) variant which meant I couldnt solder on to the pins on the rear.
+
+__Note:__ V205 of the Bitaxe has specific pads for accessories such as the BitHalo. On this, there will be new version of the BitHalo (in due course) which should work with all future versions of the Bitaxe, including the 400 series - "The Supra".
+
+<img src="BitHalo/Images/Wires.png" alt="Wires + v201" width="30%"/> 
+<img src="BitHalo/Images/Wires 2.png" alt="Wires + v201" width="30%"/> 
 
 
 # This is a Heading h1
