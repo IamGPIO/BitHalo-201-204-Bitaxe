@@ -26,7 +26,7 @@ On the BitHalo are 30 x RGB side emitting leds (WS protocol). Each LED is indivi
 
 Future revisions of the arduino sketch (BitHalo's firmware) could allow so much more animation options based on the serial stream.
 
-<img src="/BitHalo/Images/Rear+Render.png" alt="Front isometric with logo" width="50%"/>
+<img src="/BitHalo/Images/Rear+Render.png" alt="Rear Render" width="50%"/>
 
 
 
