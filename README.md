@@ -9,7 +9,13 @@ During this celestial extravaganza, as the light began to weave and dance throug
 -Ok, this didn't happen _**exactly**_ like this. 
 
 <img src="/BitHalo/Images/BitHalo+204.png" alt="Front isometric with logo" width="50%"/>
-[![YouTube Video](https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo_of_YouTube_%282015-2017%29.svg)](https://www.youtube.com/watch?v=f2CNs3iYBb0)
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=f2CNs3iYBb0">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo_of_YouTube_%282015-2017%29.svg" alt="YouTube Video" width="30%"/>
+  </a>
+</p>
+
 
 
 
