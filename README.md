@@ -68,7 +68,10 @@ To diffuse the pixelation from the individual LED's, I have designed a 5mm thick
 This simply prints in 100% infill. File can be found in the "3d Print Files" above. If the 3d printed diffuser fouls any of the components on the Bitaxe or BitHalo, it means the diffuser is the wrong way round!
 
 
-<img src="BitHalo/Images/Rear Iso 2.png" alt="3d Printed Diffuser" width="50%; vertical-align: middle;" /> 
+<div style="text-align: center;">
+  <img src="BitHalo/Images/Rear Iso 2.png" alt="3d Printed Diffuser" style="width: 50%;" />
+</div>
+
 
 ***
 ### The 3d Printed Stand:
@@ -84,7 +87,10 @@ So as I am self taught and live under a well-illuminated rock, I have only ever 
 ### The Code & updating the BitHalo
 As I only know what I know, I have written all of the code in Arduino using the Arduino IDE (sorry about that). The BitHalo can be updated via a "USBasp Programmer" (a few bucks online). On the rear of the BitHalo, you will see the 6 ICSP holes. You connect your USBasp programmer (using 5v) to the 6 pins on the BitHalo. 
 
-<img src="Arduino Sketches/Images/USBasp.png" alt="Wires + v201" style="margin-right: 40px;" width="30%"/> 
+<div style="text-align: center;">
+  <img src="Arduino Sketches/Images/USBasp.png" alt="Wires + v201" style="width: 30%; margin-right: 40px;" />
+</div>
+
  
 
 When programming via the Arduino IDE, you must click "update using programmer", not the usual "upload" button.
@@ -100,6 +106,9 @@ If you are flashing the BitHalo in situ (already on the Bitaxe), flick the switc
 ### The Assembly:
 You will need 4 x (M14 x M3) self tapping screws. The screws simply pass through the Bitaxe, the diffuser, the BitHalo and then finally, into the stands. The 3 x gold pogo pins on the BitHalo will align to the  3 necessary pads on the Bitaxe. Everything self aligns providing you use the correct screws.
 
-<img src="BitHalo/Images/Assembled Rear Iso.png" alt="3d Printed Diffuser" width="40%"/> 
+<div style="text-align: center;">
+  <img src="BitHalo/Images/Assembled Rear Iso.png" alt="3d Printed Diffuser" style="width: 40%;" />
+</div>
+
 
 
