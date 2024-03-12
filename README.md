@@ -20,21 +20,20 @@ The same applies to "BLOCK FOUND" (that would be nice, would't it!)
 ***
 
 
-### The LEDS on the BitHalo:
+### The LEDS & Switch on the BitHalo:
 On the BitHalo are 30 x RGB side emitting leds (WS protocol). Each LED is individually addressable.
-
 Future revisions of the arduino sketch (BitHalo's firmware) could allow so much more animation options based on the serial stream.
 
-<img src="BitHalo/Images/Rear Render.png" alt="Rear Render" width="30%"/>
-
-***
-
-### The switch on the BitHalo
 On the BitHalo is a slide switch. This switch simply disables the LED lights on the BitHalo. Turning the LEDs off does not affect the function of the Bitaxe itself. It is just there to turn the ligths off if they annoy you at night or whatever.
 
+<p align="center">
+<img src="BitHalo/Images/Rear Render.png" alt="Rear Render" width="30%"/>
 <img src="BitHalo/Images/Front Render.png" alt="Rear Render" width="30%"/> 
+</p>
 
 ***
+
+
 
 ### The External DC Jack (Do not use if using Bitaxe version 204)
 The external DC jack that solders to the rear of the BitHalo was incorporated to allow the Bitaxe to be powered from the rear as opposed to being powered by the DC jack on the side. 
@@ -44,7 +43,7 @@ It involved soldering 2 wires on the rear of the BitHalo v201 to the rear of the
 __Note:__ V205 of the Bitaxe has specific pads for accessories such as the BitHalo. On this, there will be new version of the BitHalo (in due course) which should work with all future versions of the Bitaxe, including the 400 series - "The Supra".
 
 <p align="center">
-  <img src="BitHalo/Images/Wires.png" alt="Wires + v201" style="margin-right: 30px;" width="50%"/> 
+  <img src="BitHalo/Images/Wires.png" alt="Wires + v201" style="margin-right: 10px;" width="30%"/> 
   <img src="BitHalo/Images/Wires 2.png" alt="Wires + v201" width="30%"/> 
 </p>
 
