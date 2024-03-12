@@ -11,13 +11,12 @@ During this celestial extravaganza, as the light began to weave and dance throug
 <img src="/BitHalo/Images/BitHalo+204.png" alt="Front isometric with logo" width="50%"/>
 
 ***   
-### Anyway...!   
-
-### License
+License
 
 This project is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License - see the [LICENSE](LICENSE) file for details or visit [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ***
+### Anyway...!  
 
 The BitHalo is a daughter board for the Bitaxe (https://bitaxe.org/) and is designed to fix to the rear of the Bitaxe with almost zero technical skill required.
 Every time the Bitaxe submits a share to the pool, a pulse of light is emitted from the BitHalo. 
