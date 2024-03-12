@@ -6,7 +6,7 @@ During this celestial extravaganza, as the light began to weave and dance throug
 
 -Ok, this didn't happen _**exactly**_ like this. 
 
-<img src="/BitHalo/BitHalo+204.png" alt="Front isometric with logo" width="75%"/>
+<img src="/BitHalo/Images/BitHalo+204.png" alt="Front isometric with logo" width="50%"/>
 
 
 
@@ -14,6 +14,19 @@ During this celestial extravaganza, as the light began to weave and dance throug
 ### Anyway...!
 
 The BitHalo is a daughter board for the Bitaxe (https://bitaxe.org/) and is designed to fix to the rear of the Bitaxe with almost zero technical skill required.
+Every time the Bitaxe submits a share to the pool, a pulse of light is emitted from the BitHalo. 
+
+The BitHalo has an in-built ATMEGA328P chip (Arduino) with code uploded to simply read the debug serial data coming from a test pint (TP18) on the rear of the Bitaxe. When the serial string "accepted" is detected, the function "pulseLeds" is run.
+
+The same applies to "BLOCK FOUND" (that would be nice, would't it!)
+
+
+### The LEDS on the BitHalo:
+On the BitHalo are 30 x RGB side emitting leds (WS protocol). Each LED is individually addressable.
+
+Future revisions of the arduino sketch (BitHalo's firmware) could allow so much more animation options based on the serial stream.
+
+<img src="/BitHalo/Images/Rear+Render.png" alt="Front isometric with logo" width="50%"/>
 
 
 
