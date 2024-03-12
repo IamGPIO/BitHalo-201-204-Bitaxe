@@ -12,10 +12,7 @@ During this celestial extravaganza, as the light began to weave and dance throug
 
 <p align="center">
   <img src="/BitHalo/Images/BitHalo+204.png" alt="Front isometric with logo" style="width: 50%; vertical-align: middle;"/>
-  </a>
 </p>
-
-
 
 
 
@@ -70,7 +67,8 @@ __Note:__ V205 of the Bitaxe has specific pads for accessories such as the BitHa
 To diffuse the pixelation from the individual LED's, I have designed a 5mm thick 3d printed opaque/opal diffuser.
 This simply prints in 100% infill. File can be found in the "3d Print Files" above. If the 3d printed diffuser fouls any of the components on the Bitaxe or BitHalo, it means the diffuser is the wrong way round!
 
-<img src="BitHalo/Images/Rear Iso 2.png" alt="3d Printed Diffuser" width="50%"/> 
+
+<img src="BitHalo/Images/Rear Iso 2.png" alt="3d Printed Diffuser" width="50%; vertical-align: middle;" /> 
 
 ***
 ### The 3d Printed Stand:
