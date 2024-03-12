@@ -8,8 +8,8 @@ During this celestial extravaganza, as the light began to weave and dance throug
 
 <img src="/BitHalo/Images/BitHalo+204.png" alt="Front isometric with logo" width="50%"/>
 
-
-### Anyway...!
+***   
+### Anyway...!   
 
 The BitHalo is a daughter board for the Bitaxe (https://bitaxe.org/) and is designed to fix to the rear of the Bitaxe with almost zero technical skill required.
 Every time the Bitaxe submits a share to the pool, a pulse of light is emitted from the BitHalo. 
@@ -17,6 +17,7 @@ Every time the Bitaxe submits a share to the pool, a pulse of light is emitted f
 The BitHalo has an in-built ATMEGA328P chip (Arduino) with code uploded to simply read the debug serial data coming from a test pint (TP18) on the rear of the Bitaxe. When the serial string "accepted" is detected, the function "pulseLeds" is run.
 
 The same applies to "BLOCK FOUND" (that would be nice, would't it!)
+***
 
 
 ### The LEDS on the BitHalo:
@@ -26,6 +27,13 @@ Future revisions of the arduino sketch (BitHalo's firmware) could allow so much 
 
 <img src="BitHalo/Images/Rear Render.png" alt="Rear Render" width="30%"/>
 
+***
+
+### The switch on the BitHalo
+On the BitHalo is a slide switch. This switch simply disables the LED lights on the BitHalo. Turning the LEDs off does not affect the function of the Bitaxe itself. It is just there to turn the ligths off if they annoy you at night or whatever.
+
+<img src="BitHalo/Images/Front Render.png" alt="Rear Render" width="30%"/> 
+***
 
 
 # This is a Heading h1
