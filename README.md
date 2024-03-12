@@ -21,9 +21,9 @@ This project is licensed under the Creative Commons Attribution-ShareAlike 4.0 I
 The BitHalo is a daughter board for the Bitaxe (https://bitaxe.org/) and is designed to fix to the rear of the Bitaxe with almost zero technical skill required.
 Every time the Bitaxe submits a share to the pool, a pulse of light is emitted from the BitHalo. 
 
-The BitHalo has an in-built ATMEGA328P chip (Arduino) with code uploded to simply read the debug serial data coming from a test pint (TP18) on the rear of the Bitaxe. When the serial string "accepted" is detected, the function "pulseLeds" is run.
+The BitHalo has an in-built ATMEGA328P chip (Arduino) with code uploaded to simply read the debug serial data coming from a test pint (TP18) on the rear of the Bitaxe. When the serial string "accepted" is detected, the function "pulseLeds" is run.
 
-The same applies to "BLOCK FOUND" (that would be nice, would't it!)
+The same applies to "BLOCK FOUND" (that would be nice, wouldn't it!)
 ***
 
 
@@ -31,7 +31,7 @@ The same applies to "BLOCK FOUND" (that would be nice, would't it!)
 On the BitHalo are 30 x RGB side emitting leds (WS protocol). Each LED is individually addressable.
 Future revisions of the arduino sketch (BitHalo's firmware) could allow so much more animation options based on the serial stream.
 
-On the BitHalo is a slide switch. This switch simply disables the LED lights on the BitHalo. Turning the LEDs off does not affect the function of the Bitaxe itself. It is just there to turn the ligths off if they annoy you at night or whatever.
+On the BitHalo is a slide switch. This switch simply disables the LED lights on the BitHalo. Turning the LEDs off does not affect the function of the Bitaxe itself. It is just there to turn the lights off if they annoy you at night or whatever.
 
 <p align="center">
 <img src="BitHalo/Images/Rear Render.png" alt="Rear Render" style="margin-right: 30px;"  width="30%"/>
@@ -45,7 +45,7 @@ On the BitHalo is a slide switch. This switch simply disables the LED lights on 
 ### The External DC Jack (Do not use if using Bitaxe version 204):
 The external DC jack that solders to the rear of the BitHalo was incorporated to allow the Bitaxe to be powered from the rear as opposed to being powered by the DC jack on the side. 
 
-It involved soldering 2 wires on the rear of the BitHalo v201 to the rear of the DC jack on the Bitaxe (must be capabale of carrying at least 4a of current). Whilst this worked well on Bitaxe v201, I had to omit it for the v204 rollout due to the change in architecture and the way the DC jack was soldered on to the board. V201 had a through hole DC jack and 204 had a surface mount (SMD) variant which meant I couldnt solder on to the pins on the rear.
+It involved soldering 2 wires on the rear of the BitHalo v201 to the rear of the DC jack on the Bitaxe (must be capable of carrying at least 4a of current). Whilst this worked well on Bitaxe v201, I had to omit it for the v204 rollout due to the change in architecture and the way the DC jack was soldered on to the board. V201 had a through hole DC jack and 204 had a surface mount (SMD) variant which meant I couldn't solder on to the pins on the rear.
 
 __Note:__ V205 of the Bitaxe has specific pads for accessories such as the BitHalo. On this, there will be new version of the BitHalo (in due course) which should work with all future versions of the Bitaxe, including the 400 series - "The Supra".
 
@@ -57,14 +57,14 @@ __Note:__ V205 of the Bitaxe has specific pads for accessories such as the BitHa
 
 ***
 ### The 3d Printed Diffuser:
-To diffuse the pixellation from the individual LED's, I have designed a 5mm thick 3d printed opaque/opal diffuser.
+To diffuse the pixelation from the individual LED's, I have designed a 5mm thick 3d printed opaque/opal diffuser.
 This simply prints in 100% infill. File can be found in the "3d Print Files" above. If the 3d printed diffuser fouls any of the components on the Bitaxe or BitHalo, it means the diffuser is the wrong way round!
 
 <img src="BitHalo/Images/Rear Iso 2.png" alt="3d Printed Diffuser" width="50%"/> 
 
 ***
 ### The 3d Printed Stand:
-In the 3D print file set above, you will find the left and righ sides of the stand I have designed to work with the BitHalo + v201-v204 of the Bitaxes. Careful consideration has been made with regards to the small components on the BitHalo and Bitaxe itself. The stand, nor the diffuser, should foul any components. 
+In the 3D print file set above, you will find the left and right sides of the stand I have designed to work with the BitHalo + v201-v204 of the Bitaxes. Careful consideration has been made with regards to the small components on the BitHalo and Bitaxe itself. The stand, nor the diffuser, should foul any components. 
 
 ***
 
@@ -90,6 +90,8 @@ If you are flashing the BitHalo in situ (already on the Bitaxe), flick the switc
 </p>
 
 ### The Assembly:
-You will need 4 x (M14 x M3) self tapping screws. The scews simply pass through the Bitaxe, the diffuser, the BitHalo and then finally, into the stands. The 3 x gold pogo pins on the BitHalo will align to the  3 necessary pads on the Bitaxe. Everything self aligns providing you use the correct screws.
+You will need 4 x (M14 x M3) self tapping screws. The screws simply pass through the Bitaxe, the diffuser, the BitHalo and then finally, into the stands. The 3 x gold pogo pins on the BitHalo will align to the  3 necessary pads on the Bitaxe. Everything self aligns providing you use the correct screws.
 
 <img src="BitHalo/Images/Assembled Rear Iso.png" alt="3d Printed Diffuser" width="40%"/> 
+
+
