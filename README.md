@@ -9,6 +9,8 @@ During this celestial extravaganza, as the light began to weave and dance throug
 -Ok, this didn't happen _**exactly**_ like this. 
 
 <img src="/BitHalo/Images/BitHalo+204.png" alt="Front isometric with logo" width="50%"/>
+[![Alt text for your video](http://img.youtube.com/vi/f2CNs3iYBb0/0.jpg)](http://www.youtube.com/watch?v=f2CNs3iYBb0)
+
 
 ***   
 License
