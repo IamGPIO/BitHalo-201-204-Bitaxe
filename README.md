@@ -96,6 +96,8 @@ So as I am self taught and live under a well-illuminated rock, I have only ever 
 ### The Code & updating the BitHalo
 As I only know what I know, I have written all of the code in Arduino using the Arduino IDE (sorry about that). The BitHalo can be updated via a "USBasp Programmer" (a few bucks online). On the rear of the BitHalo, you will see the 6 ICSP holes. You connect your USBasp programmer (using 5v) to the 6 pins on the BitHalo. 
 
+As @BenJah rightly pointed out, you will need the FastLED Library installed in the Arduino IDE.
+
 <p align="center">
   <img src="Arduino Sketches/Images/USBasp.png" alt="Wires + v201" style="width: 50%; vertical-align: middle;"/>
 </p>
